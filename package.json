@@ -1,0 +1,23 @@
+{
+  "name": "loldirt-mc-bot",
+  "version": "1.0.0",
+  "description": "Mincraft bot for loldirt Hypixel guild.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaterIdiot/LOLDirt-MC-Bot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LaterIdiot/LOLDirt-MC-Bot/issues"
+  },
+  "homepage": "https://github.com/LaterIdiot/LOLDirt-MC-Bot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mineflayer": "^2.41.0"
+  }
+}
